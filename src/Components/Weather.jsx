@@ -104,20 +104,7 @@ export const Weather = () => {
 
         </>
 
-
       )}
-
-
-
-
-
-
-
-
-
-
-
-
 
     </div>
   )
